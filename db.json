@@ -1,0 +1,38 @@
+{
+  "taskListArray": [
+    {
+      "title": "nueva tarea",
+      "description": "esta es una nueva tarea",
+      "idColumn": "to-do",
+      "id": 1
+    },
+    {
+      "title": "otra tarea",
+      "description": "nueva tarea",
+      "idColumn": "to-do",
+      "id": 2
+    },
+    {
+      "title": "nueva tarea",
+      "description": "nueva tarea",
+      "idColumn": "to-do",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "nombre": "karym",
+      "apellido": "nava",
+      "nombreUsuario": "knava",
+      "contrasena": "123456",
+      "id": 1
+    },
+    {
+      "nombre": "alexi",
+      "apellido": "santiago",
+      "nombreUsuario": "asantiago",
+      "contrasena": "654321",
+      "id": 2
+    }
+  ]
+}
